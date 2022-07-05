@@ -1,4 +1,3 @@
-from turtle import forward
 from telethon import TelegramClient, events, utils
 import configparser
 
